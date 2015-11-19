@@ -1,3 +1,0 @@
-INFO:root:Woohoo, we have a connection!
-INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.mediacloud.org
-INFO:root:Logging: Spooky Action at a Distance
